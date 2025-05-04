@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+                   0set=0, reset=0, q=x
+
+                   5set=0, reset=1, q=0
+
+                  10set=0, reset=0, q=0
+
+                  15set=1, reset=0, q=1
+
+                   0set=0, reset=0, q=x
+
+                   5set=0, reset=1, q=0
+
+                  10set=0, reset=0, q=0
+
+                  15set=1, reset=0, q=1
+
